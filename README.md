@@ -22,3 +22,14 @@ Developed as part of the "Fawry Rise Journey Intership Challenge".
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/5c9f0972-f778-49ac-8a91-b681a162df8d)
+
+
+## Structure
+
+Fawry_E-Commerce/
+├── img/              # product Images(1.jpeg, 2.jpeg, 3.jpeg, etc.)
+├── style.css         # style    
+├── task.html         # Main HTML File
+├── main.js           # Main js File
+└── README.md
+
