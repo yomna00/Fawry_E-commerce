@@ -27,7 +27,7 @@ Developed as part of the "Fawry Rise Journey Intership Challenge".
 ## Structure
 
 Fawry_E-Commerce/
-├── img/              # product Images(1.jpeg, 2.jpeg, 3.jpeg, etc.)
+├── img/              # product Images(1.jpeg, 2.jpeg, 3.jpeg, etc.)<\br>
 ├── style.css         # style    
 ├── task.html         # Main HTML File
 ├── main.js           # Main js File
